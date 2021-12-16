@@ -1,3 +1,3 @@
 # MEC482_Furata-Pendulum
-Riczi Cano
-Greta Fischer
+Riczi Cano;
+Greta Fischer;
