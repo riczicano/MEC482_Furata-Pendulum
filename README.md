@@ -1,6 +1,9 @@
 # Furata Pendulum
 Riczi Cano <br/>
 Greta Fischer <br/>
+Flor Contreras <br/>
+Timonthy Grice <br/>
+Marcus Parsons <br/>
 # Table of Contents <br/>
 1. Introduction
 2. Modeling
