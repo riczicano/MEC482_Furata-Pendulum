@@ -27,13 +27,6 @@ The Furata Pendulum was studied, modeled and simulated. The Furata Pendulum is a
 The following figures are the logical viewpoints of this project. <br/>
 ![image](https://user-images.githubusercontent.com/96210360/146433259-ce6de2ae-dac9-475f-a05e-018e5b36d41f.png) <br/>
 
-![image](https://user-images.githubusercontent.com/96210360/146433742-57a6b72a-248c-456a-8f77-55d91c1dfecb.png) <br/>
-
-
-
-
-
-
 
 # 2. Modeling
 The dynamics of the Furuta Pendulum will utilize CoppeliaSim. This program will allow the computation of dynamic properties as well as a visual representation of the working system. The code used to connect the Coppelia will be from Matlab. An important aspect to the Furuta Pendulum will be the torque applied to the pendulum via a DC motor <br/>
