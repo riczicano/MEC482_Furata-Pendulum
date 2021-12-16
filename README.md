@@ -32,7 +32,7 @@ The following figures are the logical viewpoints of this project. <br/>
 
 
 
-![image](https://user-images.githubusercontent.com/96210360/146447364-fda075f4-2c21-4235-8944-8536c5cd13dd.png)
+
 
 
 # 2. Modeling
