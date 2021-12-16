@@ -25,10 +25,10 @@ The Furata Pendulum was studied, modeled and simulated. The Furata Pendulum is a
 <br/>
 The following figures are the logical viewpoints of this project. <br/>
 ![image](https://user-images.githubusercontent.com/96210360/146433259-ce6de2ae-dac9-475f-a05e-018e5b36d41f.png) <br/>
-Functional Viewpoint of the Furata Pendulum <br/>
+
 <br/>
 ![image](https://user-images.githubusercontent.com/96210360/146433742-57a6b72a-248c-456a-8f77-55d91c1dfecb.png) <br/>
 # 2. Modeling
-![image](https://user-images.githubusercontent.com/75288242/146436312-c89ead08-2f8d-48ca-a9b3-ff077490935f.png)
+
 
 
