@@ -1,5 +1,6 @@
 # Furata Pendulum
 California State University, Chico, Fall 2021 <br/>
+<br/>
 Members: <br/>
 Riczi Cano <br/>
 Greta Fischer <br/>
