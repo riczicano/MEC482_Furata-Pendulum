@@ -11,7 +11,7 @@ Riczi Cano, Greta Fischer, Flor Contreras, and Timonthy Grice <br/>
 5. Simulation Code
 6. Reference
 # 1. Introduction:
-![image](https://user-images.githubusercontent.com/96210360/146433259-ce6de2ae-dac9-475f-a05e-018e5b36d41f.png) 
+![image](https://user-images.githubusercontent.com/96210360/146433259-ce6de2ae-dac9-475f-a05e-018e5b36d41f.png) <br/>
 Functional Viewpoint of the Furata Pendulum <br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/96210360/146433742-57a6b72a-248c-456a-8f77-55d91c1dfecb.png) <br/>
