@@ -49,7 +49,7 @@ The equations below are the basic tranfer functions. These functions would help 
 ![image](https://user-images.githubusercontent.com/96210360/146451362-ff986c34-5e93-48be-84ed-b6557293b0af.png) <br/>
 
 ![image](https://user-images.githubusercontent.com/96210360/146451553-38dd1b42-2811-4f19-98ff-e50f190c1940.png)<br/>
-Using the linear motion functions we can represent them in state-space form. They can be put into the matrices that are shown below. The g in the matricesis for gravity and the R and km are the resistance and torque constants. <br/>
+Using the linear motion functions we can represent them in state-space form. They can be put into the matrices that are shown below. The g in the matricesis for gravity and the R and km are the resistance and torwue constants. <br/>
 
 ![image](https://user-images.githubusercontent.com/96210360/146450775-12af64f5-8f56-4aed-a4f2-d7bdfeb0e0fa.png)
 
@@ -58,6 +58,8 @@ Using the linear motion functions we can represent them in state-space form. The
 
 ![image](https://user-images.githubusercontent.com/96210360/146451181-52138e81-081d-4370-93d0-49cbace54d70.png)
 
+# 3. Sensor Calibration <br/>
+No sensor calibration is needed due to this project being completely virtual. 
 
 
 
