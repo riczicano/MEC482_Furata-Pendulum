@@ -48,11 +48,7 @@ In the figure above the two angles show the degreesof freedom for the pendulum. 
 
 ![image](https://user-images.githubusercontent.com/96210360/146451362-ff986c34-5e93-48be-84ed-b6557293b0af.png) <br/>
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/96210360/146451553-38dd1b42-2811-4f19-98ff-e50f190c1940.png)<br/>
 
 
 ![image](https://user-images.githubusercontent.com/96210360/146450775-12af64f5-8f56-4aed-a4f2-d7bdfeb0e0fa.png)
