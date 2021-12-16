@@ -36,7 +36,7 @@ The following figures are the logical viewpoints of this project. <br/>
 
 
 # 2. Modeling
-The dynamics of teh Furuta Pendulum will utilize CoppeliaSim. This program will allow the computation of dynamic properties as well as a visual representation of the working system. The code used to connect the Coppelia will be from Matlab. <br/>
+The dynamics of the Furuta Pendulum will utilize CoppeliaSim. This program will allow the computation of dynamic properties as well as a visual representation of the working system. The code used to connect the Coppelia will be from Matlab. <br/>
 <br/>
 Nomenclature <br/>
 x = position of arm <br/>
