@@ -19,13 +19,16 @@ Deliverables: <br/>
 - The design hardware should have explanations such as hardware and software relationships. <br/>
 <br/>
 
+
+Here is the link to this project's presentation: <br/>
+The Furata Pendulum was studied, modeled and simulated. The Furata Pendulum is a driven arm that rotates on the horizontal plane, which is connected to another arm which rotates on the vertical plane. This project's objective have the arm in the horizontal plane balance vertically by controlling motors and the required force to do so. This project will be done virtually, utilizing MATLAB and SIMULNK and CoppeliaSim. <br/>
+<br/>
+The following figures are the logical viewpoints of this project. <br/>
 ![image](https://user-images.githubusercontent.com/96210360/146433259-ce6de2ae-dac9-475f-a05e-018e5b36d41f.png) <br/>
 Functional Viewpoint of the Furata Pendulum <br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/96210360/146433742-57a6b72a-248c-456a-8f77-55d91c1dfecb.png) <br/>
-Here is the link to this project's presentation: <br/>
-The Furata Pendulum was studied, modeled and simulated. The Furata Pendulum is a driven arm that rotates on the horizontal plane, which is connected to another arm which rotates on the vertical plane. This project's objective have the arm in the horizontal plane balance vertically by controlling motors and the required force to do so. This project will be done virtually, utilizing MATLAB and SIMULNK and CoppeliaSim. <br/>
-<br/>
+# 2. Modeling
 ![image](https://user-images.githubusercontent.com/75288242/146436312-c89ead08-2f8d-48ca-a9b3-ff077490935f.png)
 
 
