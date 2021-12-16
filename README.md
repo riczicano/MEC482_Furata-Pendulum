@@ -1,3 +1,6 @@
-# MEC482_Furata-Pendulum
-Riczi Cano;
-Greta Fischer;
+# Furata Pendulum
+Riczi Cano
+Greta Fischer
+AD
+asd
+
