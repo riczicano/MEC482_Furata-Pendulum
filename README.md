@@ -11,7 +11,7 @@ Riczi Cano, Greta Fischer, Flor Contreras, Timonthy Grice, and Marcus Parsons <b
 5. Simulation Code
 6. Reference
 # 1. Introduction:
-![](![image](https://user-images.githubusercontent.com/96210360/146433259-ce6de2ae-dac9-475f-a05e-018e5b36d41f.png))
+![]![image](https://user-images.githubusercontent.com/96210360/146433259-ce6de2ae-dac9-475f-a05e-018e5b36d41f.png)
 
 ![alt text](https://app.diagrams.net/?pages=1&sketch=1#G1fhk2seuK_qYV0U-VzX3wY4Es8CrPKXUo)
 Here is the link to this project's presentation: <br/>
