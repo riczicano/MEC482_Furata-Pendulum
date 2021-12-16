@@ -45,7 +45,7 @@ In the figure above the two angles show the degreesof freedom for the pendulum. 
 <br/> The figure below is the control theory model of the Furuta Pendulum
 ![image](https://user-images.githubusercontent.com/96210360/146433742-57a6b72a-248c-456a-8f77-55d91c1dfecb.png) <br/>
 
-
+The equations below are the basic tranfer functions. These functions would help to determine the system poles and zeros and defines the system. 
 ![image](https://user-images.githubusercontent.com/96210360/146451362-ff986c34-5e93-48be-84ed-b6557293b0af.png) <br/>
 
 ![image](https://user-images.githubusercontent.com/96210360/146451553-38dd1b42-2811-4f19-98ff-e50f190c1940.png)<br/>
