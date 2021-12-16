@@ -2,11 +2,7 @@
 California State University, Chico, Fall 2021 <br/>
 <br/>
 Members: <br/>
-Riczi Cano <br/>
-Greta Fischer <br/>
-Flor Contreras <br/>
-Timonthy Grice <br/>
-Marcus Parsons <br/>
+Riczi Cano, Greta Fischer, Flor Contreras, Timonthy Grice, and Marcus Parsons <br/>
 # Table of Contents <br/>
 1. Introduction
 2. Modeling
