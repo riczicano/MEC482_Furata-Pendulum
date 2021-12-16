@@ -21,6 +21,7 @@ Deliverables: <br/>
 
 
 Here is the link to this project's presentation: <br/>
+<br/>
 The Furata Pendulum was studied, modeled and simulated. The Furata Pendulum is a driven arm that rotates on the horizontal plane, which is connected to another arm which rotates on the vertical plane. This project's objective have the arm in the horizontal plane balance vertically by controlling motors and the required force to do so. This project will be done virtually, utilizing MATLAB and SIMULNK and CoppeliaSim. <br/>
 <br/>
 The following figures are the logical viewpoints of this project. <br/>
@@ -35,7 +36,16 @@ The following figures are the logical viewpoints of this project. <br/>
 
 
 # 2. Modeling
-The dynamics of teh Furuta Pendulum will utilize CoppeliaSim. This program will allow the computation of dynamic properties as well as a visual representation of the working system. The code used to connect the Coppelia will be from Matlab.
+The dynamics of teh Furuta Pendulum will utilize CoppeliaSim. This program will allow the computation of dynamic properties as well as a visual representation of the working system. The code used to connect the Coppelia will be from Matlab. <br/>
+<br/>
+Nomenclature <br/>
+x = position of arm <br/>
+θ = angle of pendulum <br/>
+F = applied force <br/>
+m = mass of pendulum <br/>
+l = length pendulum <br/>
+g = gravity <br/>
+fo = friction coefficient <br/>
 ![image](https://user-images.githubusercontent.com/96210360/146447646-c7720407-7977-4df0-98ba-56b007818ac8.png) <br/>
 In the figure above the two angles show the degreesof freedom for the pendulum. The motor helps to guide the angles to be positive .
 
