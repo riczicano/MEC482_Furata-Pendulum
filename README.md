@@ -46,6 +46,7 @@ m = mass of pendulum <br/>
 l = length pendulum <br/>
 g = gravity <br/>
 fo = friction coefficient <br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/96210360/146447646-c7720407-7977-4df0-98ba-56b007818ac8.png) <br/>
 In the figure above the two angles show the degreesof freedom for the pendulum. The motor helps to guide the angles to be positive .
 
