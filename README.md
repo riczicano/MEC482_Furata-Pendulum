@@ -1,6 +1,6 @@
 # Furata Pendulum
 Riczi Cano <br/>
-Greta Fischer
-AD
-asd
+Greta Fischer <br/>
+# Introduction:
+
 
