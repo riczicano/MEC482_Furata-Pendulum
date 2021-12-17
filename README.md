@@ -20,7 +20,7 @@ Deliverables: <br/>
 <br/>
 
 
-Here is the link to this project's presentation: <br/>
+Here is the link to this project's presentation: https://github.com/riczicano/MEC482_Furata-Pendulum/issues/3#issue-1083646053 <br/>
 <br/>
 The Furata Pendulum was studied, modeled and simulated. The Furata Pendulum is a driven arm that rotates on the horizontal plane, which is connected to another arm which rotates on the vertical plane. This project's objective have the arm in the horizontal plane balance vertically by controlling motors and the required force to do so. This project will be done virtually, utilizing MATLAB and SIMULNK and CoppeliaSim. <br/>
 <br/>
