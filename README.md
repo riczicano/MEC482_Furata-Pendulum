@@ -13,7 +13,7 @@ Riczi Cano, Greta Fischer, Flor Contreras, and Timonthy Grice <br/>
 # 1. Introduction:
 Deliverables: <br/>
 - Build a webpage using GitHub <br/>
-- Mathematical model of teh system using MATLAB <br/>
+- Mathematical model of the system using MATLAB <br/>
 - Control sysytem should be provided using a high-level programming language. Must show that the control algorithm will give the requirements for the system. <br/>
 - Have a simulation with the control system and mathematical model by connecting Coppelia Sim to MATLAB <br/>
 - The design hardware should have explanations such as hardware and software relationships. <br/>
