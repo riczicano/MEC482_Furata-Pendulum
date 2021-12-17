@@ -72,7 +72,7 @@ No sensor calibration is needed due to this project being completely virtual.
 
 # 6. References <br/> 
 1. Quanser, Rotary Inverted Pendulum,  https://www.quanser.com/products/rotary-inverted-pendulum/
-
+2. M. W. Spong, P. Corke, and R. Lozano, Nonlinear control of the reaction wheel pendulum,Automatica, vol. 37, no. 11, pp. 1845–1851, 2001
 
 
 
