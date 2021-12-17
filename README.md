@@ -66,7 +66,7 @@ No sensor calibration is needed due to this project being completely virtual.
 
 
 
-# 5. Simulation Code 
+# 5. Simulation Code <br/>
 % Initial Conditions:
 Jp=.5;Mp=6;Lr=12;Jr=.6;Lp=15;g=9.81;Br=10;Bp=15;Kg=16;kt=2;km=3;Rm=.3;
 Jt=Jp*Mp*Lr^2+Jr*Jp+(1/4)*Jr*Mp*Lp^2;
