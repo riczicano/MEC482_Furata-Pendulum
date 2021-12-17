@@ -60,6 +60,7 @@ Using the linear motion functions we can represent them in state-space form. The
 No sensor calibration is needed due to this project being completely virtual. 
 
 # 4. Controller Design and Simulation 
+![CoppeliaSim_Edu_-_New_file_-_rendering__4_ms_8 1_fps_-_SIMULATION_STOPPED_12_17_2021_11_17_12_AM_2](https://user-images.githubusercontent.com/75288242/146596875-91ea4ecf-716e-4675-803c-f926322613e3.png)
 
 
 
