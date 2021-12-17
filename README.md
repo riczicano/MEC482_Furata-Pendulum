@@ -61,6 +61,7 @@ Using the linear motion functions we can represent them in state-space form. The
 # 3. Sensor Calibration <br/>
 No sensor calibration is needed due to this project being completely virtual. 
 
+# 4. Controller Design and Simulation 
 
 
 
