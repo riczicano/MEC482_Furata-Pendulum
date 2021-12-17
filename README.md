@@ -40,7 +40,7 @@ l = length pendulum <br/>
 g = gravity <br/>
 fo = friction coefficient <br/>
 <br/>
-![image](https://user-images.githubusercontent.com/96210360/146447646-c7720407-7977-4df0-98ba-56b007818ac8.png) <br/>
+![download](https://user-images.githubusercontent.com/75288242/146471234-ebe9ad8e-3f50-4094-823a-be010ce2468f.png) <br/>
 In the figure above the two angles show the degreesof freedom for the pendulum. The motor helps to guide the angles to be positive. <br/>
 <br/> The figure below is the control theory model of the Furuta Pendulum
 ![image](https://user-images.githubusercontent.com/96210360/146433742-57a6b72a-248c-456a-8f77-55d91c1dfecb.png) <br/>
