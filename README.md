@@ -70,7 +70,9 @@ No sensor calibration is needed due to this project being completely virtual.
 
 
 
-# 6. References 
+# 6. References <br/> 
+1. Quanser, Rotary Inverted Pendulum, Retrieved by Dec, 15, 2020 from https://www.quanser.com/products/rotary-inverted-pendulum/
+
 
 
 
